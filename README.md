@@ -1,3 +1,5 @@
+Google Doc Coordination: https://docs.google.com/document/d/1iMbYMWPdWa9e85KVXcxux2m4X-5QLbzXhIhF7AodBOY/edit
+
 # NYPD Motor Vehicle Collision 
 
 NYPD Motor Vehicle Collision dataset has a breakdown of every collision in NYC by location and injury. It has 1.57M rows and 29 columns. 
@@ -35,4 +37,4 @@ WEEK 10-13
 * Add Statistical Analyses
 * Better Visualizations
 
-https://docs.google.com/document/d/1iMbYMWPdWa9e85KVXcxux2m4X-5QLbzXhIhF7AodBOY/edit
+
