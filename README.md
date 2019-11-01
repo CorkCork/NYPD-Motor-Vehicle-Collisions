@@ -6,30 +6,32 @@ https://data.cityofnewyork.us/Public-Safety/NYPD-Motor-Vehicle-Collisions-Crashe
 
 
 Week 10 Draft
-Obtaining and ingestion one (or, optionally, more) datasets. 
-The principal dataset will be provided from pre-defined publicly available data sources 
+* Obtaining and ingestion one (or, optionally, more) datasets. 
+* The principal dataset will be provided from pre-defined publicly available data sources 
 
 DATA CLEANING
-drop data missing above 70 percent: Esin had?
-drop  columns 3-5 for contributing factors
-drop  columns 3-5 for vehicle types?
-drop unique value [we have an index]
-to_datetime: Alan had
-learn regex to combine contributing factor values and vehicle types [Alan]
+* drop data missing above 70 percent: Esin had?
+* rop  columns 3-5 for contributing factors
+* drop  columns 3-5 for vehicle types?
+* drop unique value [we have an index]
+* to_datetime: Alan had
+* learn regex to combine contributing factor values and vehicle types [Alan]
 
 DATA ANALYSIS
-value counts for accident on street?
-Alan: Death Rates by motorist/cyclist/pedestrian, main contributing factors, death by date
-> idea: group by external/internal causes [drunk vs falling rocks]
-Kristin: Pedestrians 
+* value counts for accident on street?
 
-Esin: Seasons/Time variability [other datasets?] Avg death by hour and Avg death by borough
+* Alan: Death Rates by motorist/cyclist/pedestrian, main contributing factors, death by date
+    > idea: group by external/internal causes [drunk vs falling rocks]
+
+* Kristin: Pedestrians 
+
+* Esin: Seasons/Time variability [other datasets?] Avg death by hour and Avg death by borough
 > idea: Maybe corelate with traffic volume?
 
 Data Viz
-Show the analyses?
+* Show the analyses?
 
 WEEK 10-13
-Add Statistical Analyses
-Better Visualizations
+* Add Statistical Analyses
+* Better Visualizations
 
