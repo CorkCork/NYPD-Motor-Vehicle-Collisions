@@ -35,3 +35,4 @@ WEEK 10-13
 * Add Statistical Analyses
 * Better Visualizations
 
+https://docs.google.com/document/d/1iMbYMWPdWa9e85KVXcxux2m4X-5QLbzXhIhF7AodBOY/edit
