@@ -8,5 +8,6 @@ The data dates from 2012 to the current day, with data being updated on a daily 
 In this project, we will be doing the following:
 
 * Ingest some data from the [NYPD Motor Vehicle Collision Dataset](https://data.cityofnewyork.us/Public-Safety/NYPD-Motor-Vehicle-Collisions-Crashes/h9gi-nx95). We will use Socrata API to just select a limited number of rows.
+* Clean our data to prepare it for analysis.
 * Make analysis and visualizations.
 * Explain our findings by using markdown as we go along.
