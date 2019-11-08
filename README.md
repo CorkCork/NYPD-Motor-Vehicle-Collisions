@@ -7,7 +7,7 @@ NYPD Motor Vehicle Collision dataset has a breakdown of every collision in NYC b
 https://data.cityofnewyork.us/Public-Safety/NYPD-Motor-Vehicle-Collisions-Crashes/h9gi-nx95
 
 
-Week 10 Draft
+
 * Obtaining and ingestion one (or, optionally, more) datasets. 
 * The principal dataset will be provided from pre-defined publicly available data sources 
 
@@ -20,7 +20,8 @@ DATA CLEANING
 * learn regex to combine contributing factor values and vehicle types [Alan]
 
 DATA ANALYSIS
-* value counts for accident on street?
+* value counts for accident on 
+
 
 * Alan: Death Rates by motorist/cyclist/pedestrian, main contributing factors, death by date
     > idea: group by external/internal causes [drunk vs falling rocks]
