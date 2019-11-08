@@ -7,9 +7,6 @@ NYPD Motor Vehicle Collision dataset has a breakdown of every collision in NYC b
 https://data.cityofnewyork.us/Public-Safety/NYPD-Motor-Vehicle-Collisions-Crashes/h9gi-nx95
 
 
-Week 10 Draft
-* Obtaining and ingestion one (or, optionally, more) datasets. 
-* The principal dataset will be provided from pre-defined publicly available data sources 
 
 DATA CLEANING
 * drop data missing above 70 percent: Esin had?
