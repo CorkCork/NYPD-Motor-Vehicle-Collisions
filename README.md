@@ -7,13 +7,13 @@ The data dates from 2012 to the current day, with data being updated on a daily 
 ***** 
 In this project, we will be doing the following:
 
-* Ingest some data from the [NYPD Motor Vehicle Collision Dataset](https://data.cityofnewyork.us/Public-Safety/NYPD-Motor-Vehicle-Collisions-Crashes/h9gi-nx95). We will use Socrata API to just select a limited number of rows.
+* Ingest some data from the [NYPD Motor Vehicle Collision Dataset](https://data.cityofnewyork.us/Public-Safety/NYPD-Motor-Vehicle-Collisions-Crashes/h9gi-nx95). We will use Socrata Open Data API to just select a limited number of rows.
 * Clean the dataset to make it ready for analysis.
 * Make analysis and visualizations.
 * Explain our findings by using markdown as we go along.
 *****
 #### Dependencies
-In order to use make analysis, you need to ingest 3000000 rows from the [NYPD Motor Vehicle Collision Dataset](https://data.cityofnewyork.us/Public-Safety/NYPD-Motor-Vehicle-Collisions-Crashes/h9gi-nx95) via Socrata API. 
+In order to use make analysis, you need to ingest 3000000 rows from the [NYPD Motor Vehicle Collision Dataset](https://data.cityofnewyork.us/Public-Safety/NYPD-Motor-Vehicle-Collisions-Crashes/h9gi-nx95) via Socrata Open Data API and its `limit` parameter. 
 `pd.read_csv("https://data.cityofnewyork.us/resource/h9gi-nx95.csv?$limit=3000000")` 
 ***** 
 #### Authors
