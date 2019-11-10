@@ -17,6 +17,6 @@ In this project, we will be doing the following:
 * Explain our findings by using markdown as we go along.
 ***** 
 #### Authors
-Esin Alpturk
-Alan Leidner
+Esin Alpturk<br/>
+Alan Leidner<br/>
 Kristin Medlin
