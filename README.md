@@ -7,7 +7,7 @@ The data dates from 2012 to the current day, with data being updated on a daily 
 ***** 
 #### Dependencies
 In order to use make analysis, you need to ingest 3000000 rows from the [NYPD Motor Vehicle Collision Dataset](https://data.cityofnewyork.us/Public-Safety/NYPD-Motor-Vehicle-Collisions-Crashes/h9gi-nx95) via Socrata API. 
-pd.read_csv("https://data.cityofnewyork.us/resource/h9gi-nx95.csv?$limit=3000000")
+`pd.read_csv("https://data.cityofnewyork.us/resource/h9gi-nx95.csv?$limit=3000000")` 
 ***** 
 In this project, we will be doing the following:
 
