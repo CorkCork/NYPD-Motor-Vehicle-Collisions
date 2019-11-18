@@ -5,7 +5,7 @@
 #### High-Level Description
 The data dates from 2012 to the current day, with data being updated on a daily basis. At the time of this writing, there are 1.59 million rows, each row representing a crash event, and 29 columns. The information about the column contents can be found below.
 
-**Column Contents**
+***Column Contents***
 
 There are two columns that store information about the date and time of the accident:
 * **Accident Date**:  Occurrence date of collision
