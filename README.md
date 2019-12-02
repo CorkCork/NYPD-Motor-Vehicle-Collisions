@@ -8,8 +8,8 @@ The data dates from 2012 to the current day, with data being updated on a daily 
 ***Column Contents***
 
 There are two columns that store information about the date and time of the accident:
-* **Accident Date**:  Occurrence date of collision
-* **Accident Time**:  Occurrence time of collision
+* **Crash Date**:  Occurrence date of collision
+* **Crash Time**:  Occurrence time of collision
 
 There are six columns that store information about where the accident took place:
 * **Borough**:  Borough where collision occurred
