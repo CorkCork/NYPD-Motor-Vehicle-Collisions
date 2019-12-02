@@ -1,4 +1,6 @@
 
+Important! Some of the output of this notebook has not been included, because it makes it too big for GitHub! To see those outputs please follow this link: https://colab.research.google.com/github/CorkCork/NYPD-Motor-Vehicle-Collisions/blob/Trials/analyze_data/NYPD%20Motor%20Vehicle%20Collisions.ipynb#scrollTo=PghQxcIsAxry
+
 ### Overview
 [NYPD Motor Vehicle Collision Dataset](https://data.cityofnewyork.us/Public-Safety/NYPD-Motor-Vehicle-Collisions-Crashes/h9gi-nx95) contains details on the crash events. Each row represents a crash event. The Motor Vehicle Collisions data tables contain information from all police reported motor vehicle collisions in NYC. The dataset can be found by following this link: https://data.cityofnewyork.us/Public-Safety/NYPD-Motor-Vehicle-Collisions-Crashes/h9gi-nx95
 ***** 
